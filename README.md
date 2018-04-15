@@ -1,6 +1,6 @@
 # papers
 
-| Year | arXiv | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaTitle | Authors |
+| Year | arXiv |                          Title                              | Authors |
 |-----|-------|----------------------------------------------------------|------|
 |2017|1709.01066|[ Quantum Decimation in Hilbert Space: Coarse-Graining without Structure](https://arxiv.org/pdf/1709.01066.pdf)|Ashmeet Singh,Sean M. Carroll|
 |2013|1310.4546|[ Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)|Tomas Mikolov,Ilya Sutskever,Kai Chen,Greg Corrado,Jeffrey Dean|
